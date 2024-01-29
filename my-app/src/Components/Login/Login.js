@@ -55,7 +55,7 @@ const Login = ({ setUserState }) => {
   return (
     <div className={loginstyle.login}>
       <form>
-        <h1>Sign in to Pharmacy</h1>
+        <h1>Sign in to</h1>
         <h2>Login</h2>
         <input
           type="email"
