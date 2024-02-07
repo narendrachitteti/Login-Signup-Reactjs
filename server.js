@@ -150,4 +150,6 @@ app.post("/signup", async (req, res) => {
 
 app.listen(8000, () => {
   console.log("Server starting at 8000");
+  console.log("connected to MongoDB");
+
 });
